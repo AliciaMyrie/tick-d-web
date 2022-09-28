@@ -1,3 +1,8 @@
+Tick'd is an app with tasks in mind. A tried and true to-do app, where you can simply consider your tasks "tick'd"
+
+as you go down your list of things you need completed.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
